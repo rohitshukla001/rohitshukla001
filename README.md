@@ -1,10 +1,9 @@
 ### Hi there, I'm Rohit 👋
 
-<!--
+
 **rohitshukla001/rohitshukla001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Thing about me
 - 🔭 I’m currently working on Machine learning
 - 🌱 I’m currently learning Oracle, Python, SQL
 - 👯 I’m looking to collaborate on ...
