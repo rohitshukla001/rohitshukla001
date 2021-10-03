@@ -1,8 +1,5 @@
 ### Hi there, I'm Rohit 👋
 
-
-**rohitshukla001/rohitshukla001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Thing about me
 - 🔭 I’m currently working on Machine learning
 - 🌱 I’m currently learning Oracle, Python, SQL
