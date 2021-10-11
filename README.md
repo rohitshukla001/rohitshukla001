@@ -1,7 +1,8 @@
 ### Hi there, I'm Rohit 👋
 
 Things about me
-- 🔭 I’m currently working on | SQL | Machine learning | NLP | :---: | :---: | :---: | :---: | :---: | :---: |
+- 🔭 I’m currently working on | Python | Android | C++ | C# | Java | C | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
 - 
 - SQL, Machine learning
 - 🌱 I’m currently learning Oracle, Python, PL/SQL
