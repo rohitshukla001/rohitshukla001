@@ -1,6 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
-
-
 ### Hi there, I'm Rohit 👋
 
 Things about me
