@@ -1,4 +1,4 @@
-## नमस्ते (Namaste)🙏, I am Rohit shukla
+## नमस्ते (Namaste)🙏, I am Rohit shukla <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 Things about me
 - 🔭 I’m currently working on Machine learning, SQL, NLP
 - 🌱 Things I code in: C language, HTML, CSS, SQL, Pl/SQL, Oracle DB
