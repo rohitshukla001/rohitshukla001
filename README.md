@@ -1,7 +1,4 @@
-### Hi there, I'm Rohit 👋
-
-
-## नमस्ते (Namaste), I am Rohit shukla
+## नमस्ते (Namaste)🙏, I am Rohit shukla
 Things about me
 - 🔭 I’m currently working on Machine learning, SQL, NLP
 - 🌱 I’m currently learning Oracle, Python, PL/SQL
