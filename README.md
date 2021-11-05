@@ -6,11 +6,7 @@
 </a> <a href="https://www.oracle.com/in/index.html" target="_blank"> <img src="https://permaclipart.org/imagesvg/165444/" alt="Oracle DB" width="40" height="40"/> 
 </a> </p>
 
-<h3 align="left">Where to find me?:</h3>
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitshukla001/)&nbsp; 
- 
- <a href="https://gitlab.com/rohitshukla001/"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<li><h3 align="left">Where to find me?:</h3></li>
 
 <p><a href="https://www.linkedin.com/in/rohitshukla001/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mail:rawstar1090@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
