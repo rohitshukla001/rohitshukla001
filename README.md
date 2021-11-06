@@ -9,7 +9,7 @@
 <table> <tr>
 <td align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </td> <td href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <td href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>  </td>
   <td  href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="SQL" width="40" height="40"/> </td>
-  <td href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="_blank"> <img src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" alt="Pl/Sql" width="50" height="50"/> 
+  <td href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="_blank"> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh_mh35oPtukNeOK87qLrdQ9XgMx3X3DElCDYFZ9VOJZp-92y3CsQfA3n92Ss8RCmOaGcCnz21yxyar3FkYMPsEvLEhQ8GIywqwThEiYWflk-Lk--EgSlPrDJ5JhN1SRITpXzvCHsSZetXz67Sx-u7fqY7QlYk30vZuc30GPdmHBYkBZv0gxMQnPzVC=s200" alt="Pl/Sql" width="50" height="50"/> 
 </td>
   <td href="https://www.oracle.com/in/index.html" target="_blank"> <img src="https://permaclipart.org/imagesvg/165444/" alt="Oracle DB" width="40" height="40"/> 
 </td></p> </tr></table>
