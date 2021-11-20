@@ -5,7 +5,7 @@
 </h1> 
 
 
-<p align="left"><b >Stuff I'm really good at:</b> C language, HTML, CSS, SQL, Pl/SQL, Oracle DB</p>
+<p align="left"><b >Stuff I'm really good at:</b> C language, HTML, CSS, WordPress, Bootstrap, SQL, Pl/SQL, Oracle DB</p>
 <table> <tr>
 <td align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </td> <td href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   
