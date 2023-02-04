@@ -23,11 +23,20 @@
 </td>
   <td href="https://www.oracle.com/in/index.html" target="_blank"> <img src="https://permaclipart.org/imagesvg/165444/" alt="Oracle DB" width="40" height="40"/> 
 </td></p> </tr></table>
+
 <h3 > Where to find me?</h3>
 <p align="left">
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rohitshukla001" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:rohitshukla5911@gmail.com" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+<a href="https://stackoverflow.com/users/17337182/rohit-shukla" target="_blank"><img alt="stackoverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  
+<!--     &nbsp;&nbsp;&nbsp;       <a href="https://israelg99.github.io" target="blank"><img height="22px" align="center" src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=github&logoColor=white" /></a>   -->
+</p>  
   
   <a href="https://www.hackerrank.com/rohitshukla001" target="_blank"><img alt="Hacker Rank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" /> 
-  <a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank"><img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" />   
+ <a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank"><img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" />   
 <a href="https://www.linkedin.com/in/rohitshukla001/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
   <a href="mailto:rohitshukla5911@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a href="https://stackoverflow.com/users/17337182/rohit-shukla" target="_blank"><img alt="stackoverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </p>
