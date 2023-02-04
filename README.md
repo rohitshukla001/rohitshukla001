@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Rohit+shukla....;Nice+to+meet+you!&color=%23000000&size=28">
    </a>
 </h1>
-<p align="left"><b >Stuff I'm really good at:</b> C language, HTML, CSS, WordPress, Bootstrap, SQL, Pl/SQL, Oracle DB</p>
+<p align="left"><b >Stuff I'm really good at:</b> C language, Java, HTML, CSS, WordPress, Bootstrap, SQL, Pl/SQL, Oracle DB</p>
 <table>
    <tr>
       <td align="left">
