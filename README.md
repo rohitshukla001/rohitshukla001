@@ -23,14 +23,14 @@
    </tr>
 </table>
 <h3 align="left" > Where to find me?</h3>
-
 <table style="width:100%">
-  <tr>
-    <th title="Email"><a href="mailto:rohitshukla5911@gmail.com" target="blank"><img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /></a></th>
-    <th  title="Linkedin"><a href="https://www.linkedin.com/in/rohitshukla001" target="blank"><img height="35px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a></th>    
-    <th  title="Stackoverflow"><a href="https://stackoverflow.com/users/17337182/rohit-shukla" target="_blank"><img alt="stackoverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></th>
-      <th  title="HackerRank"><a href="https://www.hackerrank.com/rohitshukla001" target="_blank"><img alt="Hacker Rank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" /></th>
-         <th  title="Leetcode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="Leet Code" width="170px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" /></th>
-        <th  title="GeeksForGeeks"><a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank"><img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" />  </th>
-  </tr>
+<tr>
+<th title="Email"><a href="mailto:rohitshukla5911@gmail.com" target="blank"><img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /></a></th>
+<th  title="Linkedin"><a href="https://www.linkedin.com/in/rohitshukla001" target="blank"><img height="35px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a></th>    
+<th  title="Stackoverflow"><a href="https://stackoverflow.com/users/17337182/rohit-shukla" target="_blank"><img alt="stackoverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></th>
+<th  title="HackerRank"><a href="https://www.hackerrank.com/rohitshukla001" target="_blank"><img alt="Hacker Rank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" /></th>
+<th  title="Leetcode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="Leet Code" width="170px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" /></th>
+<th  title="GeeksForGeeks"><a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank"><img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" />  </th>
+<th  title="LeetCode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="LeetCode" width="170px" src="[https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png](https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png)https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" />  </th>   
+</tr>
 </table>
