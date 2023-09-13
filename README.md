@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="    pointer-events: none;
+">
 <h1 align="left">
    <a href="https://info.rohitshukla.net">
    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Rohit+shukla....;Nice+to+meet+you!&color=%23000000&size=28">
