@@ -31,6 +31,6 @@
 <th  title="HackerRank"><a href="https://www.hackerrank.com/rohitshukla001" target="_blank"><img alt="Hacker Rank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" /></th>
 <th  title="Leetcode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="Leet Code" width="170px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" /></th>
 <th  title="GeeksForGeeks"><a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank"><img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" />  </th>
-<th  title="LeetCode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="LeetCode" width="170px" src="[https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png](https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png)https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" />  </th>   
+<th  title="LeetCode"><a href="https://leetcode.com/rohitshukla001/" target="_blank"><img alt="LeetCode" width="170px" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" />  </th>   
 </tr>
 </table>
