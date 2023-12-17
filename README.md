@@ -4,7 +4,7 @@
 ">
 <h1 align="left">
    <a href="https://info.rohitshukla.net">
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Rohit+shukla....;Nice+to+meet+you!&color=%23000000&size=28">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Rohit+shukla....;Nice+to+see+you!&color=%23000000&size=28">
    </a>
 </h1>
 <p align="left"><b >Stuff I'm really good at:</b> C language, Java, HTML, CSS, WordPress, Bootstrap, SQL, Pl/SQL, Oracle DB</p>
